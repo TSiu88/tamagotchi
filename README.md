@@ -4,10 +4,27 @@
 
 #### By _**Tiffany Siu and Adela Darmansyah**_
 
+[![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
+![LastCommit](https://img.shields.io/github/last-commit/tsiu88/wordcounter-csharp)
+![Languages](https://img.shields.io/github/languages/top/tsiu88/wordcounter-csharp)
+[![MIT license](https://img.shields.io/badge/License-MIT-orange.svg)](https://lbesson.mit-license.org/)
+
+---
+## Table of Contents
+1. [Description](#description)
+2. [Setup/Installation Requirements](#setup/installation-requirements)
+    - [Requirements to Run](#requirements-to-run)
+    - [Instructions](#instructions)
+    - [Other Technologies Used](#other-technologies-used)
+3. [Specifications](#specifications)
+4. [Known Bugs](#known-bugs)
+5. [Support and Contact Details](#support-and-contact-details)
+6. [License](#license)
+---
+
 ## Description
 
-_README under construction_
-<!-- _Detailed desc w/ purpose/usage, what does, motivation to create, why exists, other info for users/developers to have_ -->
+This program uses timers to create tamagotchis that decrease in stats over time and the user tries to keep them alive by feeding, playing, and keeping the baby happy and healthy.
 
 ## Setup/Installation Requirements
 
@@ -39,9 +56,6 @@ _README under construction_
 * _Jest_
 * _Markdown_
 
-## Notable Features
-<!-- _features that make project stand out_ -->
-
 ## Specifications
 
 * _The program was created with a tamagotchi object_
@@ -68,26 +82,6 @@ _README under construction_
 * _If any of the stats reaches the limit, pet dies_
   * _Example Input: energy=30, hunger=100, fatigue = 40, happiness=0
   * _Example Output: Alert "Pet has died."
-
-## Screenshots
-
-<!-- _Here is a snippet of what the input looks like:_
-
-![Snippet of input fields](img/snippet1.png)
-
-_Here is a preview of what the output looks like:_
-
-![Snippet of output box](img/snippet2.png) -->
-
-<!-- _{Show pictures using ![alt text](image.jpg), show what library does as concisely as possible but don't need to explain how project solves problem from `code`_ -->
-
-## Test Case Example
-<!-- _Tests are done through Jest and are run from the command line prompt with `npm test`._
-_Some example tests:_
-![Snippet of an example test](img/tester1.png)
-
-![Snippet of an example result](img/tester2.png) -->
-<!-- _describe and show how to run tests with `code` examples}_ -->
 
 ## Known Bugs
 
